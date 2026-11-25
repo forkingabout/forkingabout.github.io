@@ -6,7 +6,7 @@ permalink: /about/
 
 
 
-# `whoami`
+# whoami
 
 ```
 ┌──(fork㉿pwndorasbox)-[~]
