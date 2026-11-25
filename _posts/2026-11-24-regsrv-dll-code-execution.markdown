@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "regsrv.dll Code Execution"
+title:  "Test Post"
 date:   2026-11-24 23:42:00 +0000
 categories: offsec 
 ---
 
-# Code Execution With regsrv.dll
+# Test Post 
 
 Here is an example code snip:
 
