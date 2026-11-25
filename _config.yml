@@ -23,7 +23,7 @@ email: forkingaround@atomicmail.io
 description: >- # this means to ignore newlines until "baseurl:"
   My research in offensive security and related subjects. 
 #baseurl: "/blog" # the subpath of your site, e.g. /blog
-baseurl: "/blog"
+baseurl: ""
 #url: "forkingaround.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 url: "https://forkingabout.github.io"
 #twitter_username: forkingabout 
