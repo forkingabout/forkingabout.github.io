@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 #baseurl: "/blog" # the subpath of your site, e.g. /blog
 baseurl: "/blog"
 #url: "forkingaround.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-url: "forkingabout.github.io"
+url: "https://forkingabout.github.io"
 #twitter_username: forkingabout 
 github_username: forkingabout 
 
