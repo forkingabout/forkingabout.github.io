@@ -13,4 +13,4 @@ permalink: /resources/
 
 # Miscellaneous 
 
--[Cool terminal fonts :\)](https://www.programmingfonts.org/#courier-ibm-slashed)
+- [Cool terminal fonts :\)](https://www.programmingfonts.org/#courier-ibm-slashed)
