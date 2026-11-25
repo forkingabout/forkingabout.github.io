@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Offsec
+title: Off Sec
 permalink: /offsec/
 ---
 
