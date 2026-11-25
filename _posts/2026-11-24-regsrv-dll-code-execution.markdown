@@ -2,7 +2,7 @@
 layout: post
 title:  "Test Post"
 date:   2026-11-24 23:42:00 +0000
-categories: offsec 
+categories: offsec maldev 
 ---
 
 # Test Post 
