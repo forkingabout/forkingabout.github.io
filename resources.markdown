@@ -6,9 +6,11 @@ permalink: /resources/
 
 
 # Malware Development
-- https://www.ired.team/offensive-security/code-execution
-- https://www.ired.team/offensive-security/code-injection-process-injection
-- https://www.ired.team/offensive-security/defense-evasion
-- https://www.ired.team/offensive-security/persistence
+- [Red Team Notes - Code Execution](https://www.ired.team/offensive-security/code-execution)
+- [Red Team Notes - Process Injection](https://www.ired.team/offensive-security/code-injection-process-injection)
+- [Red Team Notes - Defense Evasion](https://www.ired.team/offensive-security/defense-evasion)
+- [Red Team Notes - Persistence](https://www.ired.team/offensive-security/persistence)
 
+# Miscellaneous 
 
+-[Cool terminal fonts :\)](https://www.programmingfonts.org/#courier-ibm-slashed)
